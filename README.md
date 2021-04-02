@@ -7,4 +7,5 @@ A jupyter notebook for reading, calibrating, and plotting 9DOF IMU data with a b
 https://ryanjtnicholl.com/2021/03/26/calibration-and-basic-orientation-sensing-using-a-9-dof-imu/
 
 ## Basic_Pedometer_V1.0.0
-A jupyter notebook for filtering Z accelerometer data, for the purposes of distance estimation.
+A jupyter notebook for filtering Z accelerometer data, for the purposes of distance estimation. A brief summary is in the blog post:
+https://ryanjtnicholl.com/2021/04/01/a-basic-pedometer/
